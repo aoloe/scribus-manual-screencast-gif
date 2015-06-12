@@ -11,3 +11,4 @@ A collection of short GIF screencasts for Scribus
 - use openshot to cut webm recordings? (ogv does not seem to be working)
 - `xnee` allows to record the key strokes and mouse movements
   - <https://www.youtube.com/watch?v=O3YKwrYaJAg>
+  - http://linuxpoison.blogspot.ch/2012/03/record-play-keystrokes-and-mouse.html
