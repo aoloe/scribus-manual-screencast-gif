@@ -12,3 +12,4 @@ A collection of short GIF screencasts for Scribus
 - `xnee` allows to record the key strokes and mouse movements
   - <https://www.youtube.com/watch?v=O3YKwrYaJAg>
   - http://linuxpoison.blogspot.ch/2012/03/record-play-keystrokes-and-mouse.html
+- have a look at `vokoscreen`, a qt 4 app for screenscasting and see how the show the frame.
